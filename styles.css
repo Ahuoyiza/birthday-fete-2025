@@ -262,6 +262,14 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+.pl-4{
+    background-image: url(sophia\ 3.JPG);
+    display: none;
+    background-size: 300px;
+    background-repeat: no-repeat;
+   background-position: right;
+}
+
 
 
 
@@ -770,6 +778,7 @@ body {
     .art-image {
         display: none;
     }
+    .pl-4{display: block;}
 }
 
 /* Mobile (up to 767px) */
@@ -777,4 +786,5 @@ body {
     .art-image {
         display: none;
     }
+    .pl-4{display: block;}
 }
