@@ -3,7 +3,7 @@ const musicToggle = document.getElementById('musicToggle');
 const backgroundMusic = document.getElementById('backgroundMusic');
 let isPlaying = false;
 
-// You'll need to add the actual music file path when you have the song
+
 // backgroundMusic.src = "naughty-girl.mp3";
 
 musicToggle.addEventListener('click', function() {
